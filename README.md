@@ -1,0 +1,2 @@
+# ajjun
+Ajjun Industry management
